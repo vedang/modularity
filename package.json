@@ -1,0 +1,12 @@
+{
+  "name": "modularity-skills",
+  "version": "1.5.0",
+  "description": "Skills for designing and analyzing modular software systems using the Balanced Coupling model.",
+  "license": "CC-BY-NC-SA-4.0",
+  "author": "Vlad Khononov",
+  "keywords": ["pi-package"],
+  "files": ["skills", "README.md", "LICENSE", "ai.txt"],
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
